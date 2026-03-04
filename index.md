@@ -1,6 +1,3 @@
-DINO Pilot Program
----
-
 
 # Join the DINO Pilot Program
 
@@ -38,7 +35,7 @@ I would welcome a brief 15-minute call with our partners to explain how DINO wor
 
 **Current Capacity:** We have space for 10 pilot schools in this phase. **6 spots are already committed** as of today. Remaining spots will be allocated on a first-come, first-serve basis.
 
-* [📩 **Reply to our email**](#) or [📅 **Book a call directly on our CALENDAR**](#)
+* [📩 **Reply to our email**](miriam.ferreira@paperbox.health) or [📅 **Book a call directly on our CALENDAR**](https://koalendar.com/e/meet-with-francesco-garosci?month=2026-03&duration=30&date=2026-03-09)
 
 ---
 
@@ -50,6 +47,7 @@ I would welcome a brief 15-minute call with our partners to explain how DINO wor
 
 ### DINO Platform Preview
 ![DINO Project Image]([https://github.com/MiriamFerreira13/shumpway.github.io/blob/main/373A8298-B575-423B-89DA-B8FB3DEF7786.png])
+
 
 
 
