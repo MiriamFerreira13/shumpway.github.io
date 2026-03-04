@@ -1,5 +1,7 @@
----layout: default
-title: DINO Pilot Program---
+layout: default
+title: DINO Pilot Program
+---
+
 
 # Join the DINO Pilot Program
 
@@ -49,4 +51,5 @@ I would welcome a brief 15-minute call with our partners to explain how DINO wor
 
 ### DINO Platform Preview
 ![DINO Project Image]([https://github.com/MiriamFerreira13/shumpway.github.io/blob/main/373A8298-B575-423B-89DA-B8FB3DEF7786.png])
+
 
